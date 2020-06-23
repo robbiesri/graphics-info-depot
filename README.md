@@ -14,6 +14,12 @@ If you want to add content, PR me.
 
 * [Why Reinhard desaturates my blacks](https://imdoingitwrong.wordpress.com/2010/08/19/why-reinhard-desaturates-my-blacks-3/) - Tom Madams
 
+## Shaders
+
+### Features
+
+* Half The Precision, Twice The Fun: Working With FP16 In HLSL - Matt Pettineo, 2019
+  * [Blog post](https://therealmjp.github.io/posts/shader-fp16/)
 
 ## Upscaling
 
